@@ -1,0 +1,15 @@
+D:\Portfolio\Dev\PowerWeb\PowerWeb\bin\Debug\net8.0\PowerWeb.exe
+D:\Portfolio\Dev\PowerWeb\PowerWeb\bin\Debug\net8.0\PowerWeb.deps.json
+D:\Portfolio\Dev\PowerWeb\PowerWeb\bin\Debug\net8.0\PowerWeb.runtimeconfig.json
+D:\Portfolio\Dev\PowerWeb\PowerWeb\bin\Debug\net8.0\PowerWeb.dll
+D:\Portfolio\Dev\PowerWeb\PowerWeb\bin\Debug\net8.0\PowerWeb.pdb
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.AssemblyInfoInputs.cache
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.AssemblyInfo.cs
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.csproj.CoreCompileInputs.cache
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.sourcelink.json
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.dll
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\refint\PowerWeb.dll
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.pdb
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\PowerWeb.genruntimeconfig.cache
+D:\Portfolio\Dev\PowerWeb\PowerWeb\obj\Debug\net8.0\ref\PowerWeb.dll
